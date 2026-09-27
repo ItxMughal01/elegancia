@@ -1,0 +1,33 @@
+HTTrack3.50-4 launched on Fri, 25 Sep 2026 21:31:50 at https://hackathon-eight-jade.vercel.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://hackathon-eight-jade.vercel.app/ -O1 "C:\Users\itx mughal\OneDrive\Desktop\New folder (7)\ELEGANCIA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:32:31	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/assets/img/favicon.svg (from https://hackathon-eight-jade.vercel.app/)
+21:33:24	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/comming.html (from https://hackathon-eight-jade.vercel.app/)
+21:33:24	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/faq.html (from https://hackathon-eight-jade.vercel.app/)
+21:33:24	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/404.html (from https://hackathon-eight-jade.vercel.app/)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/assets/fonts/lg.eot?n1z373 (from https://hackathon-eight-jade.vercel.app/assets/css/plugins/lightgallery.min.css)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/assets/fonts/lg.eot? (from https://hackathon-eight-jade.vercel.app/assets/css/plugins/lightgallery.min.css)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/assets/fonts/lg.woff?n1z373 (from https://hackathon-eight-jade.vercel.app/assets/css/plugins/lightgallery.min.css)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/assets/fonts/lg.ttf?n1z373 (from https://hackathon-eight-jade.vercel.app/assets/css/plugins/lightgallery.min.css)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/assets/fonts/lg.svg?n1z373 (from https://hackathon-eight-jade.vercel.app/assets/css/plugins/lightgallery.min.css)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/assets/css/img/vimeo-play.png (from https://hackathon-eight-jade.vercel.app/assets/css/plugins/lightgallery.min.css)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/assets/css/img/video-play.png (from https://hackathon-eight-jade.vercel.app/assets/css/plugins/lightgallery.min.css)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/assets/css/img/youtube-play.png (from https://hackathon-eight-jade.vercel.app/assets/css/plugins/lightgallery.min.css)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/assets/img/loading.gif (from https://hackathon-eight-jade.vercel.app/assets/css/plugins/lightgallery.min.css)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/assets/css/style.css (from https://hackathon-eight-jade.vercel.app/room.html)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/about.html (from https://hackathon-eight-jade.vercel.app/about-hotel-resort.html)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/menu.html (from https://hackathon-eight-jade.vercel.app/about-hotel-resort.html)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/chef.html (from https://hackathon-eight-jade.vercel.app/about-hotel-resort.html)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/contact.html (from https://hackathon-eight-jade.vercel.app/about-hotel-resort.html)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/reservations.html (from https://hackathon-eight-jade.vercel.app/about-hotel-resort.html)
+21:33:25	Warning: 	Warning: store application/octet-stream without scan: C:/Users/itx mughal/OneDrive/Desktop/New folder (7)/ELEGANCIA/hackathon-eight-jade.vercel.app/assets/img/review_start.svg
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/assets/img/event_single_page.jpg (from https://hackathon-eight-jade.vercel.app/event-single-page.html)
+21:33:25	Error: 	"Not Found" (404) at link https://hackathon-eight-jade.vercel.app/portfolio-details.html (from https://hackathon-eight-jade.vercel.app/restaurent.html)
+
+HTTrack Website Copier/3.50-4 mirror complete in 1 minutes 35 seconds : 136 links scanned, 114 files written (32959192 bytes overall) [31683159 bytes received at 333506 bytes/sec], 1929247 bytes transferred using HTTP compression in 53 files, ratio 21%
+(21 errors, 1 warnings, 0 messages)
